@@ -27,5 +27,5 @@ var romanToInt = function(s) {
 
 
 module.exports={romanToInt}
-console.log(romanToInt("III"))
-console.log(romanToInt("XL"))
+// console.log(romanToInt("III"))
+// console.log(romanToInt("XL"))
